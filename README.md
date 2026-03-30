@@ -1,20 +1,21 @@
 # Text Encryption Tool (C)
 
-This program encrypts and decrypts a text using a simple Caesar cipher.
+This program encrypts and decrypts text using a simple Caesar cipher.
 
 ## Features
-- user input text
+- text input
 - shift-based encryption
 - decryption
+- save encrypted text into a file
 
 ## Concepts used
 - strings
 - loops (while)
-- conditions
+- file handling
 - ASCII manipulation
 
 ## Compilation
-gcc encryption.c -o  encryption
+gcc encryption.c -o encryption
 
 ## Execution
 ./encryption
